@@ -1,0 +1,53 @@
+UI of project written
+going to sleep at 03:35 AM 6/5/2016
+Today: 24/8/2016. I am focusing on the menus
+Today:  6/9/2016. Redesigning the App totally.
+                Instead of using a qtextedit as the page object, a qscrollarea will be used.
+                Reason for this  is that since the page object will only provide scrolling operations
+                It makes sense to use a scroll area instead of a textedit that will not be used for editing operations.
+                Gradually moving each class to a its own file
+Today: 5/10/2016. Just looking at the code in a computer center. I am currently printing my project.
+                Just looking at this to kill time.
+Today : 8/10/2016. I have broken the project down to meaningful files
+                Things now look more interesting than before
+                It doesn't give me headaches anymore.
+                I have created the view, model and the middle man (what some call presenter, controller or viewModel)
+                 The middle man sits between the view and the model
+                 So, the view does not know about the model and vice versa
+
+
+
+Today: 7/11/16
+WORKING:
+    undo, redo
+
+Today: 8/11/16
+
+    Make the "+" work well
+
+Today: 21/4/17
+    Re-organizing the code base
+    Implementing MVC
+
+Today: 11/6/2017
+    Writing the Open Method
+
+Today: 13/6/2017
+    Open method is working tho it could still use some adjustments
+    But it's working
+    Save is also working
+    Rename is also working
+
+Today: 8/10/2017
+    After a long break - went to NYSC camp
+     Working on:
+        Saving the font the user chooses and loading it on app start up
+     User font family and size choices now saved and loads on start up
+
+Today: 17/10/2017
+    Working on:
+        Moving caret or cursor to the end of the document on app start up: Done
+
+Today: 21/10/2017
+     Working on:
+        Fixing
